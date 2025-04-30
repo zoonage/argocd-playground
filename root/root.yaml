@@ -4,3 +4,10 @@ metadata:
   name: root-test
 data:
   abc: YXNkYXMK
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: root-test-prune
+data:
+  abc: YXNkYXMK
