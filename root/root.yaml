@@ -3,4 +3,4 @@ kind: Secret
 metadata:
   name: root-test
 data:
-  abc: def
+  abc: YXNkYXMK
